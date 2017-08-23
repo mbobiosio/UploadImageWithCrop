@@ -14,8 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private ImageView imageView;
 
     /**
-     * I did a couple of stuff for the upload but I'm making this plain and just
-     * including the php file.
+     * I did a couple of stuff for the upload but I'm making this plain setup with the crop feature working.
      * Please any method you choose will be just fine so far it uploads to server.
      * I will fetch the file path to sql
      */
