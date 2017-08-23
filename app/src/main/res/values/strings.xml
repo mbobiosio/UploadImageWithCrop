@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UploadWithCrop</string>
+    <string name="title_activity_temp">TempActivity</string>
+    <string name="accent">#FF4081</string>
+</resources>
